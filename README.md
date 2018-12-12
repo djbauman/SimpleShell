@@ -4,6 +4,7 @@ To compile:
 gcc -o smallsh smallsh.c
 
 Commands:
+
 "exit" - exits the shell.
 
 "cd" - changes the working directory of the shell.
